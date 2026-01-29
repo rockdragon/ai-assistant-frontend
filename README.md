@@ -1,7 +1,7 @@
 # AIアシスタントのフロントエンド
 
 ## 事前準備
-1. .env.developmentを作る
+1. <code>.env.development</code>を作る
 ```editorconfig
 NEXT_PUBLIC_SERVER_HOST=[あなたの バックエンド・サーバー の　URL]
 NEXT_PUBLIC_SERVER_HOST_WITH_SSL=FALSE
